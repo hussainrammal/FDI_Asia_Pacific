@@ -1,7 +1,6 @@
 {
   "name": "fdi-map-asia-pacific",
   "version": "1.0.0",
-  "description": "Interactive FDI inflows visualization for Asia Pacific countries",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
